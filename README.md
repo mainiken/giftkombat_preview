@@ -14,7 +14,7 @@
 
 !!! Все инструкции по установке и настройки находятся в приватном чате !!!
 
-## ![Preview](/terminal_preview.png)
+## ![Preview](terminal_prevew.png)
 
 ## ⚙️ Настройки
 
