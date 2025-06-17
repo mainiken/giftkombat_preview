@@ -3,6 +3,7 @@
 
 ---
 
+
 # [Gift Kombat Bot](https://t.me/gift_kombat_bot?startapp=252453226)
 [Gift Kombat Bot](https://t.me/gift_kombat_bot?startapp=252453226) Это автоматизированный бот для игры [Gift Kombat Bot](https://t.me/gift_kombat_bot?startapp=252453226). Поддерживает многопоточность, интеграцию с прокси и автоматическое управление игрой.
 
@@ -12,6 +13,8 @@
 В приватный чат можно попасть, только будучи рефералом: https://t.me/gift_kombat_bot?startapp=252453226
 
 !!! Все инструкции по установке и настройки находятся в приватном чате !!!
+
+## ![Preview](/terminal_preview.png)
 
 ## ⚙️ Настройки
 
